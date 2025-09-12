@@ -33,3 +33,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szmrlevee&show_icons=true&locale=en" alt="szmrlevee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szmrlevee&" alt="szmrlevee" /></p>
+
+![snake gif](https://github.com/SzmrLevee/SzmrLevee/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
