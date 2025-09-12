@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Levente Szomor</h1>
 <h3 align="center">A passionate developer from Hungary</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hscWtycDBucmZodDBkbGloaTl1YTNxajhod3JrNWRycGIzY3MzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/200.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szmrlevee&label=Profile%20views&color=0e75b6&style=flat" alt="szmrlevee" /> </p>
 
 - 🔭 I’m currently working on **TimeBoardX School Project**
