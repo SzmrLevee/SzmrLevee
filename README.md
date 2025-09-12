@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.gif" alt="Header gif" width="100%" />
+  <video src="./header.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
 
 <h1 align="center">Hi 👋, I'm Levente Szomor</h1>
