@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Laravel, Docker, Desktop Application**
 
-- 👨‍💻 All of my projects are available at [github.com/SzmrLevee](github.com/SzmrLevee)
+- 👨‍💻 All of my projects are available at [https://github.com/SzmrLevee](https://github.com/SzmrLevee)
 
 - 📫 How to reach me **levente.szomor@gmail.com**
 
